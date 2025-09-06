@@ -1,13 +1,12 @@
-
-import Show from '../counter_usereducer/Task';
 import './App.css'
+import Todo from './todo_traditional/Todo';
 
 function App() {
 
 
   return (
     <>
-     <Show/>
+     <Todo/>
     </>
   )
 }
